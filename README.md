@@ -33,7 +33,9 @@
  ```terminal终端/powershell
    //激活虚拟环境(命令行运行时请勿带注释)
    amazon-keword-scraper\Scripts\activate
+   //安装依赖
    pip install -r requirements.txt
+   //运行脚本(虚拟环境amazon-keword-scraper)
    python gui.py
  ```
 
@@ -52,6 +54,10 @@ pysimplegui 用于制作gui界面方便用户交互
 # 效果展示
 
 ![image-20220105140852214](https://s2.loli.net/2022/01/05/Gd6IMgafwYZLJQj.png)
+
+导出的文件展示
+
+![image-20220105142927312](https://s2.loli.net/2022/01/05/uyqUD2PaHRSoQsN.png)
 
 
 

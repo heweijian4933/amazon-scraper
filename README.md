@@ -33,7 +33,7 @@
  ```terminal终端/powershell
    //激活虚拟环境(命令行运行时请勿带注释)
    amazon-keword-scraper\Scripts\activate
-   
+   pip install -r requirements.txt
    python gui.py
  ```
 
